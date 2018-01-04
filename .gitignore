@@ -113,3 +113,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# virtualenv
+bin/
+include/
+pip-selfcheck.json
+.vscode/
