@@ -118,5 +118,9 @@ ENV/
 bin/
 include/
 pip-selfcheck.json
-.vscode/
 share/
+
+# .vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
